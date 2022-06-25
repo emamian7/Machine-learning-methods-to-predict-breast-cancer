@@ -1,10 +1,9 @@
 # Machine-learning-methods-to-predict-cancer
 
 Introduction:
-In this experiment, different machine learning method such as Stochastic Gradient 
-Descent, KNN, Support Vector Machines, Naive Bayes and Forest and tree methods are applied. Mean data from data set is used to apply with machine learning to analyze on accuracy and cross validation for each method.For 
-improvement, the best performance of the classifier by Grid search and by sampling different hyper-parameter combinations was achieved. 
-After that only some feature which depend on normal distribution was extracted and the same method was used to see the results change. 
+Different machine learning method such as Stochastic Gradient 
+Descent, KNN, Support Vector Machines, Naive Bayes, Forest and tree methods are used. Mean data from data set is used with machine learning to measure the accuracy and cross validation for each method.The best performance of the classifier by Grid search and by sampling different hyper-parameter combinations was achieved. 
+Only some feature which depend on normal distribution was extracted and the same method was used to see the results change. 
 
 Data Set
 To predict whether the cancer is benign or malignant from Wisconsin (Diagnostic) Data Set. Features 
